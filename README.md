@@ -2,7 +2,7 @@
 ### This is me Abdul Rehman Abdul Alim Kalsekar ..
 
 
-- 🔭 I’m currently working on My Personal Portfolio at [arkalsekar.github.io](https://www.arkalsekar.github.io/abdulrehman)
+- 🔭 I’m currently working on My Personal Portfolio at [arkalsekar.github.io](https://arkalsekar.github.io/abdulrehman/)
 - 🌱 I’m currently learning ```Data Science```, ```ML```, ```Deep Learning```, ```Pandas```, ```Numpy```, ```Tensorflow```, ```Pytorch``` and ```Matplotlib```
 - 👯 I’m looking to collaborate on any ```Data Science``` Project or any Simple ```Web Dev``` or ```Django | Flask ``` Project or ```Flutter App ..```
 - 🤔 I’m always ready for any help if you want  
