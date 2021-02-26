@@ -8,6 +8,6 @@
 - 🤔 I’m always ready for any help if you want  
 - 💬 Ask me about ```Web Dev```, ```Django```, ```Python```, ```Raspberry Pi```,  ```Data Science```,and ```Data Visualisations.``` 
 - Note: I am Proficient Enough in ```Data Science and ML..``` But will be Glad to Learn something New.
-- 📫 How to reach me: ...
+- 📫 How to reach me: Connect with me on Twitter [@Abd_Geeky](https://twitter.com/AbdGeeky)
 - ⚡ Fun fact: ... I am Currently a High School Student Studying in Class 11th in India
 
