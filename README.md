@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/arkalsekar/arkalsekar/main/wave.gif" width="40px">
+# Hi there! <img src="https://raw.githubusercontent.com/arkalsekar/arkalsekar/main/wave.gif" width="35px">
 ### This is me Abdul Rehman Abdul Alim Kalsekar ..
 
 
