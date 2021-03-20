@@ -1,4 +1,4 @@
-### Hi there !<img src="https://github.com/arkalsekar/arkalsekar/blob/main/wave.gif", width=30px>
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### This is me Abdul Rehman Abdul Alim Kalsekar ..
 
 
