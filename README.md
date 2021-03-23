@@ -1,5 +1,5 @@
 # Hi there! <img src="https://raw.githubusercontent.com/arkalsekar/arkalsekar/main/wave.gif" width="35px">
-### This is me Abdul Rehman Abdul Alim Kalsekar ..
+### This is me Abdul Rehman Kalsekar ..
 
 
 - 🔭 I’m currently working on My Personal Portfolio at [arkalsekar.github.io](https://arkalsekar.github.io/abdulrehman/)
