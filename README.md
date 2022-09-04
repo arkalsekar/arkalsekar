@@ -13,4 +13,5 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arkalsekar&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkalsekar&layout=compact)](https://github.com/arkalsekar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkalsekar&langs_count=8)](https://github.com/arkalsekar/application-tracking-system)
+
