@@ -11,7 +11,3 @@
 - Note: I am not a Master of ```Data Science and ML..``` But will be Glad to Learn something New.
 - 📫 How to reach me: Connect with me on Twitter [@Abd_Geeky](https://twitter.com/arkalsekar) | Medium [@arkalsekar](https://arkalsekar.medium.com/) | Linkedin [@arkalsekar](https://linkedin.com/in/arkalsekar)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arkalsekar&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkalsekar&langs_count=8)](https://github.com/arkalsekar/application-tracking-system)
-
