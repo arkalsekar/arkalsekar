@@ -2,7 +2,7 @@
 ### This is me Abdul Rehman Kalsekar ..
 
 
-- 🔭 I’m currently working on My Personal Portfolio [here](https://arkalsekar.github.io/)
+- 🔭 I’m currently working on My Personal Portfolio [here](https://arkalsekar.in)
 - Current Status : Debugging my Life...
 - 🌱 I’m currently Learning and trying to Master ``` Data Structures ```  and ```Algorithms ```
 - 👯 I’m looking to collaborate on any ```Data Science``` Project or any Simple ```Web Dev``` or ```Django | Flask ``` Project or ```Flutter App ..```
